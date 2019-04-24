@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+Sitemap: https://seoteamk11.github.io/sitemap.xml
